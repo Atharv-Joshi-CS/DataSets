@@ -1,0 +1,62 @@
+[
+    {
+        "title" : "Men Yellow Printed Cotton T-shirt",
+        "category" : "Tee Shirt",
+        "imagePath" : "hrx-tshirt.png",
+        "price" : "279"
+    },
+    {
+        "title" : "Black Marvel Printed",
+        "category" : "Tee Shirt",
+        "imagePath" : "marvel-tshirt.png",
+        "price" : "337"
+    },
+    {
+        "title" : "Men Charcoal Grey T-shirt",
+        "category" : "Tee Shirt",
+        "imagePath" : "roadster-tshirt.png",
+        "price" : "319"
+    },
+    {
+        "title" : "Men Grey Tapered Fit Chinos",
+        "category" : "Trousers",
+        "imagePath" : "highlander-trousers.png",
+        "price" : "666"
+    },
+    {
+        "title" : "Olive Slim Fit Trousers",
+        "category" : "Trousers",
+        "imagePath" : "ivoc-trousers.png",
+        "price" : "1103"
+    },
+    {
+        "title" : "Black High Neck Cropped Top",
+        "category" : "Tops",
+        "imagePath" : "black-neck-cropped-top.png",
+        "price" : "599"
+    },
+    {
+        "title" : "Women Yellow Peplum Top",
+        "category" : "Tops",
+        "imagePath" : "tokyo-top.png",
+        "price" : "304"
+    },
+    {
+        "title" : "Black Running Shoes",
+        "category" : "Shoes",
+        "imagePath" : "adidas-shoes.png",
+        "price" : "1619"
+    },
+    {
+        "title" : "Elephant Holding Wall Clock",
+        "category" : "Clocks",
+        "imagePath" : "wall-clock.png",
+        "price" : "10999"
+    },
+    {
+        "title" : "Brown and Orange Wall Shelves",
+        "category" : "Decor",
+        "imagePath" : "wall-shelves.png",
+        "price" : "1351"
+    }
+]
