@@ -12,13 +12,13 @@
         "price" : "337"
     },
     {
-        "title" : "Men Charcoal Grey T-shirt",
+        "title" : "Charcoal Grey T-shirt",
         "category" : "Tee Shirt",
         "imagePath" : "roadster-tshirt.png",
         "price" : "319"
     },
     {
-        "title" : "Men Grey Tapered Fit Chinos",
+        "title" : "Grey Fit Chinos",
         "category" : "Trousers",
         "imagePath" : "highlander-trousers.png",
         "price" : "666"
@@ -30,7 +30,7 @@
         "price" : "1103"
     },
     {
-        "title" : "Black High Neck Cropped Top",
+        "title" : "Black High Neck Top",
         "category" : "Tops",
         "imagePath" : "black-neck-cropped-top.png",
         "price" : "599"
@@ -48,13 +48,13 @@
         "price" : "1619"
     },
     {
-        "title" : "Elephant Holding Wall Clock",
+        "title" : "Elephant Wall Clock",
         "category" : "Clocks",
         "imagePath" : "wall-clock.png",
         "price" : "10999"
     },
     {
-        "title" : "Brown and Orange Wall Shelves",
+        "title" : "Wall Shelves",
         "category" : "Decor",
         "imagePath" : "wall-shelves.png",
         "price" : "1351"
