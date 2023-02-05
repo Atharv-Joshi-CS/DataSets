@@ -18,7 +18,7 @@
         "price" : "319"
     },
     {
-        "title" : "Grey Fit Chinos",
+        "title" : "Grey Fit Tight Chinos",
         "category" : "Trousers",
         "imagePath" : "highlander-trousers.png",
         "price" : "666"
@@ -54,7 +54,7 @@
         "price" : "10999"
     },
     {
-        "title" : "Wall Shelves",
+        "title" : "Orange-Black Wall Shelves",
         "category" : "Decor",
         "imagePath" : "wall-shelves.png",
         "price" : "1351"
