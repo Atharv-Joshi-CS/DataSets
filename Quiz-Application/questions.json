@@ -1,0 +1,34 @@
+[
+    {
+        "questionText" : "Capital of India?",
+        "optionA" : "Mumbai",
+        "optionB" : "Delhi",
+        "optionC" : "Kolkata",
+        "optionD" : "Chennai",
+        "type" : "SCQ"
+    },
+    {
+        "questionText" : "National Bird?",
+        "optionA" : "Peacock",
+        "optionB" : "Owl",
+        "optionC" : "Eagle",
+        "optionD" : "Sparrow",
+        "type" : "MCQ"
+    },
+    {
+        "questionText" : "Wealthist Person",
+        "optionA" : "Bezos",
+        "optionB" : "Musk",
+        "optionC" : "Adani",
+        "optionD" : "Tata",
+        "type" : "SCQ"
+    },
+    {
+        "questionText" : "Fastest Mammal?",
+        "optionA" : "Cheetah",
+        "optionB" : "Orca",
+        "optionC" : "Falcon",
+        "optionD" : "Spider",
+        "type" : "MCQ"
+    }
+]
